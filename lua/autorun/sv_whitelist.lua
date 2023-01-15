@@ -1,4 +1,4 @@
-// MADE BY DELTA //
+-- MADE BY DELTA
 
 local allowed = {
     --[ "YOURSTEAMID 64 - 7656456456987115" ] = true,
