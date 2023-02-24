@@ -6,6 +6,6 @@ local allowed = {
 
 hook.Add( "CheckPassword", "WhitelistChecker", function( steamID64 )
     if not allowed[ steamID64 ] then
-        return false, "Vengeance - Whitelist \nYou're not Whistelisted on this server."
+        return false, "Delta - Whitelist \nYou're not Whistelisted on this server."
     end
 end )
